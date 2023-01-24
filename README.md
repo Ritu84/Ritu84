@@ -5,6 +5,12 @@
 <!-- <div align="center" width="50"> -->
 <img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
+  </a>
+</h1>
+
 - 🔭 I’m currently learning **MERN Stack.**
 
 - 👯 I’m looking to collaborate on **projects and Open Source**

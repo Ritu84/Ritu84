@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 428" width="680" height="428">
+  <style>
+    .ink { stroke: #1f2330; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+    .sym { font: 700 26px 'Courier New', monospace; fill: #1f2330; }
+    .float1 { animation: float 3.2s ease-in-out infinite; }
+    .float2 { animation: float 3.8s ease-in-out infinite 0.6s; }
+    .float3 { animation: float 3.5s ease-in-out infinite 1.2s; }
+    .float4 { animation: float 4.1s ease-in-out infinite 0.3s; }
+    @keyframes float { 0%,100% { transform: translateY(0); opacity: .9; } 50% { transform: translateY(-14px); opacity: .5; } }
+    .blink { animation: blink 4s infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+    .type-l { animation: typeL .45s ease-in-out infinite alternate; }
+    .type-r { animation: typeR .45s ease-in-out infinite alternate .22s; }
+    @keyframes typeL { from { transform: translateY(0); } to { transform: translateY(-5px); } }
+    @keyframes typeR { from { transform: translateY(0); } to { transform: translateY(-5px); } }
+    .steam { animation: steam 2.6s ease-in-out infinite; }
+    .steam2 { animation: steam 2.6s ease-in-out infinite 1.3s; }
+    @keyframes steam { 0% { transform: translateY(6px); opacity: 0; } 40% { opacity: .8; } 100% { transform: translateY(-16px); opacity: 0; } }
+    .cursor { animation: cur 1s steps(1) infinite; }
+    @keyframes cur { 50% { opacity: 0; } }
+    .head { animation: nod 3s ease-in-out infinite; transform-origin: 340px 250px; }
+    @keyframes nod { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(-2deg); } }
+  </style>
+
+  <!-- background blob -->
+  <path d="M190 210 C170 120 260 60 350 70 C420 40 500 70 505 150 C560 190 545 300 470 330 C420 400 300 410 220 360 C150 330 150 260 190 210 Z" fill="#e3f2fb"/>
+
+  <!-- floating code symbols -->
+  <g class="float1"><text x="250" y="80" class="sym">{ }</text></g>
+  <g class="float2"><text x="455" y="112" class="sym">&lt;/&gt;</text></g>
+  <g class="float3"><text x="140" y="200" class="sym">#</text></g>
+  <g class="float4"><text x="490" y="228" class="sym">&lt;</text></g>
+
+  <g class="head">
+    <!-- hair (back, long) -->
+    <path d="M268 190 C262 120 300 92 342 92 C388 92 420 122 414 190 L420 300 C400 312 380 306 372 296 L310 296 C300 306 280 312 262 300 Z" fill="#2b2233" class="ink"/>
+    <!-- neck -->
+    <rect x="326" y="236" width="30" height="30" fill="#f6c9a0" class="ink"/>
+    <!-- face -->
+    <ellipse cx="341" cy="190" rx="54" ry="58" fill="#f9d3ae" class="ink"/>
+    <!-- bangs -->
+    <path d="M287 180 C290 130 320 112 348 114 C380 116 398 140 396 172 C380 150 352 140 332 146 C315 152 298 166 287 180 Z" fill="#2b2233" class="ink"/>
+    <!-- hair bun -->
+    <circle cx="341" cy="84" r="22" fill="#2b2233" class="ink"/>
+    <!-- earrings -->
+    <circle cx="287" cy="214" r="5" fill="#f5b942" stroke="#1f2330" stroke-width="2"/>
+    <circle cx="395" cy="214" r="5" fill="#f5b942" stroke="#1f2330" stroke-width="2"/>
+    <!-- glasses -->
+    <rect x="304" y="182" width="30" height="22" rx="8" fill="#ffffff" fill-opacity=".35" class="ink" stroke-width="3"/>
+    <rect x="348" y="182" width="30" height="22" rx="8" fill="#ffffff" fill-opacity=".35" class="ink" stroke-width="3"/>
+    <line x1="334" y1="192" x2="348" y2="192" class="ink" stroke-width="3"/>
+    <!-- eyes -->
+    <ellipse cx="319" cy="193" rx="4" ry="5" fill="#1f2330" class="blink"/>
+    <ellipse cx="363" cy="193" rx="4" ry="5" fill="#1f2330" class="blink"/>
+    <!-- lashes -->
+    <path d="M312 186 l-4 -4 M370 186 l4 -4" class="ink" stroke-width="2.5"/>
+    <!-- blush -->
+    <ellipse cx="306" cy="216" rx="8" ry="4" fill="#f4a3a3" opacity=".7"/>
+    <ellipse cx="376" cy="216" rx="8" ry="4" fill="#f4a3a3" opacity=".7"/>
+    <!-- smile -->
+    <path d="M328 224 C336 232 348 232 356 224" fill="none" class="ink" stroke-width="3.5"/>
+    <!-- earphone wires -->
+    <path d="M288 222 C292 260 300 280 300 300" fill="none" stroke="#ff6b81" stroke-width="3"/>
+    <path d="M394 222 C390 260 384 280 384 300" fill="none" stroke="#ff6b81" stroke-width="3"/>
+  </g>
+
+  <!-- body / top -->
+  <path d="M262 392 C262 300 290 262 341 262 C392 262 420 300 420 392 Z" fill="#8a7ff0" class="ink"/>
+  <path d="M322 264 L341 286 L360 264" fill="none" class="ink" stroke-width="3"/>
+
+  <!-- hands typing -->
+  <g class="type-l"><ellipse cx="300" cy="374" rx="16" ry="10" fill="#f9d3ae" class="ink" stroke-width="3"/></g>
+  <g class="type-r"><ellipse cx="382" cy="374" rx="16" ry="10" fill="#f9d3ae" class="ink" stroke-width="3"/></g>
+
+  <!-- laptop (back of screen facing us) -->
+  <rect x="292" y="256" width="180" height="128" rx="12" fill="#f1f1f1" class="ink"/>
+  <rect x="286" y="380" width="192" height="12" rx="4" fill="#d9d9d9" class="ink" stroke-width="3"/>
+  <!-- stickers -->
+  <g transform="translate(366 274)">
+    <path d="M0 0 h24 l-2 24 l-10 4 l-10 -4 Z" fill="#e44d26" stroke="#1f2330" stroke-width="2"/>
+    <text x="12" y="19" text-anchor="middle" font-family="Arial" font-weight="700" font-size="13" fill="#fff">5</text>
+  </g>
+  <rect x="312" y="304" width="34" height="26" rx="5" fill="#f7df1e" stroke="#1f2330" stroke-width="2"/>
+  <text x="329" y="323" text-anchor="middle" font-family="Arial" font-weight="700" font-size="14" fill="#1f2330">JS</text>
+  <circle cx="436" cy="316" r="14" fill="#61dafb" fill-opacity=".25" stroke="#1f2330" stroke-width="2"/>
+  <ellipse cx="436" cy="316" rx="13" ry="5" fill="none" stroke="#1f2330" stroke-width="1.6"/>
+  <ellipse cx="436" cy="316" rx="13" ry="5" fill="none" stroke="#1f2330" stroke-width="1.6" transform="rotate(60 436 316)"/>
+  <ellipse cx="436" cy="316" rx="13" ry="5" fill="none" stroke="#1f2330" stroke-width="1.6" transform="rotate(-60 436 316)"/>
+  <circle cx="436" cy="316" r="2.5" fill="#1f2330"/>
+  <text x="380" y="360" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="16" fill="#1f2330">&gt;_<tspan class="cursor">|</tspan></text>
+
+  <!-- small device left -->
+  <rect x="155" y="318" width="90" height="72" rx="10" fill="#f1f1f1" class="ink"/>
+  <circle cx="200" cy="354" r="8" fill="#5b6070"/>
+  <path d="M245 350 C262 350 270 360 286 362" fill="none" stroke="#ff6b81" stroke-width="3"/>
+
+  <!-- coffee cup right -->
+  <path d="M498 332 L536 332 L530 390 L504 390 Z" fill="#ffffff" class="ink"/>
+  <circle cx="517" cy="358" r="9" fill="#c9cdd6"/>
+  <path class="steam" d="M510 322 C504 312 516 306 510 296" fill="none" stroke="#9aa0ad" stroke-width="3" stroke-linecap="round"/>
+  <path class="steam2" d="M524 322 C518 312 530 306 524 296" fill="none" stroke="#9aa0ad" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- desk -->
+  <line x1="40" y1="392" x2="640" y2="392" class="ink"/>
+</svg>

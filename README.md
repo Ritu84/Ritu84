@@ -1,126 +1,47 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ritu Sharma</h1>
-<h3 align="center">Target="Hell_Product"</h3>
+# Ritu Sharma
 
-<!-- <div align="center" width="50"> -->
-<p align="center">
-  <img src="./assets/coding-girl.svg" alt="coding" width="500" />
-</p>
+**Software Engineer** · Full-stack products, data pipelines and AI agents
 
+<a href="https://www.linkedin.com/in/ritu-sharma-a2580222a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://techiefolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://drive.google.com/file/d/1jVMsm9X9rMF7UdFNjSn2RaeNiiMBOjlk/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a> <a href="mailto:rsharma114962@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://leetcode.com/u/Ritu84/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
-  </a>
-</h1>
+<img src="./assets/coding-girl.svg" alt="Developer at work" width="420" />
 
-- 🔭 I am a result-driven full-stack engineer with a passion for building scalable, robust systems that enhance user experience while prioritizing code maintainability. 
+</div>
 
-- 👯 I’m looking to collaborate on **projects and Open Source**
+---
 
-- 🤝 I excel in agile environments, focusing on building MVPs and refining them over time. I prioritize clean code and thorough documentation to ensure maintainability and support quick feature development.
+### About
 
-- 📫 How to reach me:just one step away **rsharma114962@gmail.com**
+- Build **end-to-end products**: React / Next.js frontends, Python and Node.js APIs, and the data layer underneath.
+- Work on **real-time analytics**, **OAuth integrations** and **ETL pipelines** with PostgreSQL, ClickHouse and Airflow.
+- Build **LLM-powered agents** and workflows with LangGraph, LangChain and MCP.
+- Care about clean architecture, secure auth and code that is easy for the next engineer to change.
 
-- ⚡ Fun fact **I'm not at all funny👀✔**
+### Featured Projects
 
-<p align="center">
-  <a href="https://lnk.ink/xi7q" target="_blank">proof of work</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1jVMsm9X9rMF7UdFNjSn2RaeNiiMBOjlk/view?usp=sharing" target="_blank">resume</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://techiefolio.netlify.app" target="_blank">portfolio</a>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [**PharmaScope AI**](https://github.com/Ritu84/PharmaScope-AI) | AI pipeline that maps the competitive landscape for any drug target from clinical-trial and research data | Python · LangGraph · LangChain · OpenAI |
+| [**Appoint-Me**](https://github.com/Ritu84/Appoint-Me) | Doctor appointment platform with patient, doctor and admin roles · [live](https://doctorapp-xk2x.onrender.com/) | React · Node.js · Express · MongoDB · JWT |
+| [**CampusChronicle**](https://github.com/Ritu84/CampusChronicle) | Blogging platform with a rich editor, Google sign-in, nested comments and notifications · [live](https://gecr-blogs.netlify.app) | React · Node.js · MongoDB · Firebase · AWS S3 |
+| [**FinTrack**](https://github.com/Ritu84/FinTrack) | Finance dashboard with KPIs, charts and revenue forecasting · [live](https://fintrack-finance.netlify.app/) | TypeScript · React · Redux Toolkit · MUI · Node.js |
 
+### Tech Stack
 
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,redux,tailwind,materialui,fastapi,nodejs,express,postgres,mongodb,redis,firebase,aws,docker,git,github,linux&perline=11&theme=light" alt="Tech stack" />
 
-![logo](https://github.com/Ritu84/Ritu84-/blob/main/snake%20gif.gif)
+**AI & Data Engineering**  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse"/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/sharmaritu69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ritu-sharma-a2580222a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/rsharma114962" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/ritusharma3186" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+### Highlights
 
+- **LeetCode Knight** · 700+ problems solved
+- **CodeChef 3★**
+- **Google Developer Student Clubs Lead** (2023)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;
+---
 
-  <!-- Frameworks & Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>&nbsp;
-
-  <!-- Tools -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
-  </a>
-</p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritu84&show_icons=true&locale=en&layout=compact" alt="ritu84" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritu84&show_icons=true&locale=en" alt="ritu84" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritu84&" alt="ritu84" /></p>
-
+<div align="center">
+<sub>Open to interesting problems and good teams · <a href="mailto:rsharma114962@gmail.com">rsharma114962@gmail.com</a></sub>
+</div>

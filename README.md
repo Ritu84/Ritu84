@@ -19,15 +19,6 @@
 - Build **LLM-powered agents** and workflows with LangGraph, LangChain and MCP.
 - Care about clean architecture, secure auth and code that is easy for the next engineer to change.
 
-### Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**PharmaScope AI**](https://github.com/Ritu84/PharmaScope-AI) | AI pipeline that maps the competitive landscape for any drug target from clinical-trial and research data | Python · LangGraph · LangChain · OpenAI |
-| [**Appoint-Me**](https://github.com/Ritu84/Appoint-Me) | Doctor appointment platform with patient, doctor and admin roles · [live](https://doctorapp-xk2x.onrender.com/) | React · Node.js · Express · MongoDB · JWT |
-| [**CampusChronicle**](https://github.com/Ritu84/CampusChronicle) | Blogging platform with a rich editor, Google sign-in, nested comments and notifications · [live](https://gecr-blogs.netlify.app) | React · Node.js · MongoDB · Firebase · AWS S3 |
-| [**FinTrack**](https://github.com/Ritu84/FinTrack) | Finance dashboard with KPIs, charts and revenue forecasting · [live](https://fintrack-finance.netlify.app/) | TypeScript · React · Redux Toolkit · MUI · Node.js |
-
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,react,nextjs,redux,tailwind,materialui,fastapi,nodejs,express,postgres,mongodb,redis,firebase,aws,docker,git,github,linux&perline=11&theme=light" alt="Tech stack" />
